@@ -1,0 +1,56 @@
+[
+  {
+    "name": "astro",
+    "owner": "withastro",
+    "description": "The web framework for content-driven websites.",
+    "language": "TypeScript",
+    "stars": 48000,
+    "starredAt": "2026-09-04",
+    "url": "https://github.com/withastro/astro"
+  },
+  {
+    "name": "htmx",
+    "owner": "bigskysoftware",
+    "description": "HTML-driven interactions without the complexity of JavaScript frameworks.",
+    "language": "JavaScript",
+    "stars": 42000,
+    "starredAt": "2026-08-28",
+    "url": "https://github.com/bigskysoftware/htmx"
+  },
+  {
+    "name": "ruff",
+    "owner": "astral-sh",
+    "description": "An extremely fast Python linter and code formatter.",
+    "language": "Rust",
+    "stars": 41000,
+    "starredAt": "2026-08-19",
+    "url": "https://github.com/astral-sh/ruff"
+  },
+  {
+    "name": "tldraw",
+    "owner": "tldraw",
+    "description": "A whiteboard SDK built for the web.",
+    "language": "TypeScript",
+    "stars": 21000,
+    "starredAt": "2026-08-11",
+    "url": "https://github.com/tldraw/tldraw"
+  },
+  {
+    "name": "Hello-World",
+    "owner": "octocat",
+    "starredAt": "2024-01-15",
+    "url": "https://github.com/octocat/Hello-World"
+  },
+  {
+    "name": "docs",
+    "owner": "github",
+    "starredAt": "2024-02-02",
+    "url": "https://github.com/github/docs"
+  },
+  {
+    "name": "octo-repo",
+    "owner": "octo-org",
+    "starredAt": "2024-03-21",
+    "url": "https://github.com/octo-org/octo-repo"
+  }
+]
